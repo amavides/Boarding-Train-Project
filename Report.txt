@@ -1,0 +1,99 @@
+
+
+Stimulation Report
+
+Customer AVI DES have spent 0s in the waiting room
+Customer ABEYSINGHE JAYAWARDHANA have spent 17s in the waiting room
+Customer GUHANATHAN PORAVI have spent 27s in the waiting room
+Customer MAHESHA PIYUMANTHA have spent 37s in the waiting room
+Customer WEHAN HIMSARA have spent 46s in the waiting room
+Customer EFEF EFEFE have spent 57s in the waiting room
+
+
+
+Max Queue Length of passengers: 6
+Max waiting time of all passengers: 57s
+Min waiting time of all passengers: 0s
+Average waiting time of all passengers: 9s
+
+
+
+
+Stimulation Report
+
+Customer AVI DES have spent 0s in the waiting room
+Customer ABEYSINGHE JAYAWARDHANA have spent 22s in the waiting room
+Customer GUHANATHAN PORAVI have spent 25s in the waiting room
+Customer MAHESHA PIYUMANTHA have spent 30s in the waiting room
+Customer WEHAN HIMSARA have spent 38s in the waiting room
+Customer EFEF EFEFE have spent 51s in the waiting room
+
+
+
+Max Queue Length of passengers: 6
+Max waiting time of all passengers: 51s
+Min waiting time of all passengers: 0s
+Average waiting time of all passengers: 8s
+
+
+
+
+Stimulation Report
+
+Customer AVI DES have spent 0s in the waiting room
+Customer ABEYSINGHE JAYAWARDHANA have spent 24s in the waiting room
+Customer GUHANATHAN PORAVI have spent 35s in the waiting room
+Customer MAHESHA PIYUMANTHA have spent 51s in the waiting room
+Customer WEHAN HIMSARA have spent 57s in the waiting room
+Customer EFEF EFEFE have spent 66s in the waiting room
+
+
+
+Max Queue Length of passengers: 6
+Max waiting time of all passengers: 66s
+Min waiting time of all passengers: 0s
+Average waiting time of all passengers: 11s
+
+
+
+
+Stimulation Report
+
+Customer AVI DES have spent 0s in the waiting room
+Customer ABEYSINGHE JAYAWARDHANA have spent 20s in the waiting room
+Customer GUHANATHAN PORAVI have spent 30s in the waiting room
+Customer MAHESHA PIYUMANTHA have spent 40s in the waiting room
+Customer WEHAN HIMSARA have spent 52s in the waiting room
+Customer EFEF EFEFE have spent 61s in the waiting room
+
+
+
+Max Queue Length of passengers: 6
+Max waiting time of all passengers: 61s
+Min waiting time of all passengers: 0s
+Average waiting time of all passengers: 10s
+
+
+
+
+Stimulation Report
+
+Customer DESHAN JAYAWARDHANA have spent 0s in the waiting room
+Customer PASAN FERNANDO have spent 17s in the waiting room
+Customer HESHANI GUNATHILAKA have spent 29s in the waiting room
+Customer BUDDIMA WIJERATHNA have spent 35s in the waiting room
+Customer OSHAN JAYAWARDHANA have spent 46s in the waiting room
+Customer LAHIRU JAYAWARDHANA have spent 60s in the waiting room
+Customer USHAN PREMARATHNA have spent 69s in the waiting room
+Customer WEHAN JAYAWARDHANA have spent 81s in the waiting room
+Customer RASHMI GUNAWARDHANA have spent 88s in the waiting room
+Customer AVISHKA JAYAWARDHANA have spent 104s in the waiting room
+
+
+
+Max Queue Length of passengers: 10
+Max waiting time of all passengers: 104s
+Min waiting time of all passengers: 0s
+Average waiting time of all passengers: 10s
+
+
